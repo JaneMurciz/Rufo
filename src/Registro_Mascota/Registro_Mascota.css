@@ -1,0 +1,11 @@
+.container{
+    justify-content: center;
+    padding: 20px;
+}
+.subcontainer input{
+    width: calc(300px - 5px - 5px);
+    padding: 5px;
+    margin: 0 auto;
+    font-size: 16px;
+    cursor: pointer;
+}

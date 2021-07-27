@@ -1,0 +1,55 @@
+
+.subcontainer{
+    width: 600px;
+    margin: 0 auto;
+    font-weight: bold;
+    justify-content: center;
+    outline: none;
+}
+.subcontainer div{
+    display: inline-block;
+    padding: 10px;
+    vertical-align: middle;
+}
+.logo{
+    text-align: center;
+    color: #fff;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.imagen{
+    display: inline-block;
+    padding: 10px;
+    margin: 0px;
+    width: 50%;
+}
+
+.search{
+    width: 400px 20px;
+}
+
+.search input{
+    width: calc(500px - 8px - 8px);
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+.actions{
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.datos label{
+    margin: 0 auto;
+    font-weight: bold;
+    justify-content: center;
+}
+
+.app {
+    font-size: 1rem;
+}
+  
